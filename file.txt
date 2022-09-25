@@ -1,0 +1,7 @@
+belajar kembali coding
+apa aja yang harus dipelajari ulang
+git and github
+javascript
+css 
+sass
+jquery
