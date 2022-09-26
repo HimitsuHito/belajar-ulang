@@ -1,0 +1,3 @@
+git init untuk memulai dari awal
+git config --global user.name = untuk menambahkan identitas
+git config --global user.email = untuk menambahkan identitas email
