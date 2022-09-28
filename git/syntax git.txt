@@ -1,3 +1,19 @@
 git init untuk memulai dari awal
 git config --global user.name = untuk menambahkan identitas
 git config --global user.email = untuk menambahkan identitas email
+git add . untuk memasuki ke staging area
+git add (nama) untuk yang lebih spesifikan
+git commit -m "untuk menuliskan commit yang ada"
+git commit -am "cara add and commit secara bersamaan"
+
+alias graph="git log --all --decorate --oneline --graph" berfungsi untuk melihat branch ke akhir
+git branch berfungsi untuk melihat ada branch apa aja.
+git branch (nama) untuk membuat branch baru
+git branch -d untuk menghapus suatu branch yang sudah di merge
+git branch -D untuk menghapus branch sudah tidak dipakai tanpa di merge
+
+jenis merge ada 2 
+1.fast forward jalur merge secara langsung.
+2.Three-way Merge 2 branch yang berbeda dijadikan satu branch
+
+git merge (branch mana) berfungsi untuk nge merge 
